@@ -42,7 +42,6 @@ Provides a detailed tabular view of individual loan records with key attributes.
 - **DAX (Data Analysis Expressions)** for calculations  
 
 ## 🚀 How to Use  
-1. Open the `.pbix` file in **Power BI Desktop**  
-2. Apply your dataset (if applicable)  
-3. Explore the interactive dashboard with filters and drill-through options  
+1. Open the `.pbix` file in **Power BI Desktop**   
+2. Explore the interactive dashboard with filters and drill-through options  
 

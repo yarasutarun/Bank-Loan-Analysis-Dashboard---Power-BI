@@ -38,7 +38,7 @@ Provides a detailed tabular view of individual loan records with key attributes.
 
 ## 🛠️ Technologies Used  
 - **Power BI** for data visualization  
-- **MySQL** for data preparation (if applicable)  
+- **MySQL** for data preparation  
 - **DAX (Data Analysis Expressions)** for calculations  
 
 ## 🚀 How to Use  
